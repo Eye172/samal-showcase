@@ -38,7 +38,7 @@ The participant files contain record IDs, timestamps, mean wind speed (m/s), nor
 | Development potential and originality | 10 |
 | **Total** | **100** |
 
-The **84/100** result is the jury's overall score. Model accuracy and replay outputs are described separately in the [engineering case study](../README.md#why-the-simpler-model-stayed).
+The **84/100** result is the jury's overall score. Model accuracy and replay outputs are described separately in the [engineering case study](ENGINEERING.md#why-the-simpler-model-stayed).
 
 ## Official links
 
