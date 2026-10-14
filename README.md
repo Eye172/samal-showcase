@@ -7,6 +7,16 @@ An hourly **24–48 hour power-forecasting workspace for two wind turbines in th
 
 *A recorded application run: turbine forecasts, an earlier issue on common hours and the agent’s execution trace.*
 
+## HackAlem AI 2026
+
+**84/100 · Energy track · QwertyS**
+
+SAMAL was submitted to [HackAlem AI](https://hackalem.ai/) in Astana on **23 September 2026**, for Samruk-Kazyna's wind-power forecasting challenge. The project received **84 points out of 100** and did not advance to the final.
+
+The event achieved the GUINNESS WORLD RECORDS title **“Most Participants in an Agentic AI Hackathon”**, as stated on the [participation certificate](docs/awards/hackalem-ai-participation.pdf). [Astana Hub's announcement](https://astanahub.com/en/article/mezhdunarodnyi-ai-khakaton-hackalem-ai-ustanovil-mirovoi-rekord-guinness-world-records) covers the event's record.
+
+[Event website](https://hackalem.ai/) · [Challenge](https://learn.spira.to/hackathons/df4743f5-c492-415c-b45a-1f13adb78e06?tab=tracks) · [Results](https://learn.spira.to/hackathons/df4743f5-c492-415c-b45a-1f13adb78e06?tab=solutions) · [Certificate and result](docs/awards/README.md) · [Challenge brief and evaluation](docs/HACKATHON.md)
+
 ## The difficult part is the timeline
 
 A forecast can look excellent if it accidentally uses weather that was published later or measurements from the period it is meant to predict. SAMAL makes the issue time part of the data model. Every forecast needs to know which weather run was available and which SCADA observations were allowed at that moment.
